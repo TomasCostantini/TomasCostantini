@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,html,css,py,go" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,arduino,html,css,py,go" />
   </a>
 </p>
 <!-- Connect with me -->
