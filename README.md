@@ -17,7 +17,7 @@
 
 - 🌱 Me encuentro aprendiendo Go, Python, HTML y CSS.
   
-- 📝 Me interesa todo lo relacionado con las redes, la ciberseguridad y el hacking.
+- 📝 Me interesa todo lo relacionado con las redes y la ciberseguridad.
 <!--Intro end-->
 
 
