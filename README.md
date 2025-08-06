@@ -52,11 +52,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,arduino,html,css,py,go" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,py,go,linux,arduino,html,css" />
   </a>
 </p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Si lo necesitas, puedes contactarme🤝</h2></summary>
