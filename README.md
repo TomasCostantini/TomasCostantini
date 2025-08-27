@@ -15,7 +15,7 @@
 <!--Intro start-->
 - 🔭 Actualmente me encuentro estudiando la carrera de Ingenieria Informatica en la Universidad Catolica de Santiago del Estero.
 
-- 🌱 Me encuentro aprendiendo Go, Python, HTML y CSS.
+- 🌱 Me encuentro aprendiendo Go, Python y javascript.
   
 - 📝 Me interesa todo lo relacionado con las redes y la ciberseguridad.
 <!--Intro end-->
@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,py,go,linux,arduino,html,css" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,py,go,linux,arduino,javascript" />
   </a>
 </p>
 
