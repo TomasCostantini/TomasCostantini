@@ -15,7 +15,7 @@
 <!--Intro start-->
 - 🔭 Actualmente me encuentro estudiando la carrera de Ingenieria Informatica en la Universidad Catolica de Santiago del Estero.
 
-- 🌱 Me encuentro aprendiendo Go, Python y javascript.
+- 🌱 Me encuentro aprendiendo Go, Python y Javascript.
   
 - 📝 Me interesa todo lo relacionado con las redes y la ciberseguridad.
 <!--Intro end-->
