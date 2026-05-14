@@ -15,9 +15,9 @@
 <!--Intro start-->
 - 🔭 Actualmente me encuentro estudiando la carrera de Ingenieria Informatica en la Universidad Catolica de Santiago del Estero.
 
-- 🌱 Me encuentro aprendiendo Go, Python y Javascript.
+- 🌱 Me encuentro aprendiendo Go, Python y C#.
   
-- 📝 Me interesa todo lo relacionado con las redes y la ciberseguridad.
+- 📝 Me interesa todo lo relacionado con las redes y backend.
 <!--Intro end-->
 
 
@@ -29,8 +29,6 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TomasCostantini&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasCostantini&theme=dark&hide_border=false" /> 
 </td>
 
@@ -52,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,py,go,linux,arduino,javascript" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,py,go,cs,debian,linux,arduino"/>
   </a>
 </p>
 
